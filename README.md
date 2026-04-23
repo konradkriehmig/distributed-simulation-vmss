@@ -1,3 +1,5 @@
+This is a Learning Project for my Cloud Infrastructure Solution Engineering Role, aiming to help me understand how cloud infrastructure enables distributed systems to run at high performance.
+
 Aim of this project is to **improve the runtime of multiple parallel backtests** that take my laptop too long to run.
 
 This project is about creating a high-performance infrastructure for large backtests, it is not about finding a great trading strategy. For this project, I am using simple ma crossover backtest on crypto data. I use crypto as a data source because it is freely available. The data can be replaced with other trading data anytime.
