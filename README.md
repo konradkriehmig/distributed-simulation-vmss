@@ -16,9 +16,8 @@ During the project I discovered that I was able to speed up the whole code with 
 
 <img width="1818" height="700" alt="image" src="https://github.com/user-attachments/assets/747d9da8-4098-4333-ad98-9fb4647859dc" />
 
-How to deploy this project:
-1. Clone repo
-2. Configure secrets in settings:
+### Setup Guide
+1. Configure secrets in settings:
     AZURE_CREDENTIALS
     AZURE_SUBSCRIPTION_ID
     POSTGRES_NAME
