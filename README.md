@@ -12,7 +12,7 @@ During the project I discovered that I was able to speed up the whole code with 
 
 <img width="519" height="663.5" alt="image" src="https://github.com/user-attachments/assets/c69a2e32-5c29-45cb-a07d-1e817d816908" />
 
-Architecture:
+### Architecture:
 
 <img width="1818" height="700" alt="image" src="https://github.com/user-attachments/assets/747d9da8-4098-4333-ad98-9fb4647859dc" />
 
@@ -34,7 +34,7 @@ How to deploy this project:
 9. Give yourself permissions (storage queue data reader) to check whether jobs landed in queue storage
 
 
-## Skills Demonstrated
+### Skills Demonstrated
 - Infrastructure as Code (ARM templates)
 - CI/CD with GitHub Actions
 - Azure networking (VNet, NAT Gateway [for downloading pythobn packages from the internet without a public IP], subnets)
