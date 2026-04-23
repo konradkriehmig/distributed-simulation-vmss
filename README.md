@@ -1,4 +1,4 @@
-This is a Learning Project for my Cloud Infrastructure Solution Engineering Role, aiming to help me understand how cloud infrastructure enables distributed systems to run at high performance.
+This is a Learning Project for my Cloud Infrastructure Solution Engineering GRaduate Program, aiming to help me understand how cloud infrastructure enables distributed systems to run at high performance.
 
 Aim of this project is to **improve the runtime of multiple parallel backtests** that take my laptop too long to run.
 
