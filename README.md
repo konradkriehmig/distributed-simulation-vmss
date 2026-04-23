@@ -33,7 +33,7 @@ During the project I discovered that I was able to speed up the whole code with 
 9. Give yourself permissions (storage queue data reader) to check whether jobs landed in queue storage
 
 
-### Skills Demonstrated
+### Learnings
 - Infrastructure as Code (ARM templates)
 - CI/CD with GitHub Actions
 - Azure networking (VNet, NAT Gateway [for downloading pythobn packages from the internet without a public IP], subnets)
