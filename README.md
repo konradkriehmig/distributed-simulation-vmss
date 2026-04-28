@@ -19,8 +19,6 @@ During the project I discovered that I was able to speed up the whole code with 
 ### Learnings
 - Infrastructure as Code (ARM templates)
 - CI/CD with GitHub Actions
-- Azure networking (VNet, NAT Gateway [for downloading python packages from the internet without a public IP], subnets)
-- Managed Identity / RBAC (no secrets in code)
-- VMSS auto-scaling patterns
+- NAT Gateway [for downloading python packages from the internet without a public IP])
 - Queue-based job distribution to VMSS
 
